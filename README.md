@@ -1,6 +1,6 @@
  Hi, I’m @Charlie0909 <br>
  I’m interested in working on small art projects in my spare time.<br>
- I’m currently at the very beginning of my journey into Web Development. 
+ I’ve recently begun my journey into the new and terrifying world of Web Development.
 
 
 <!---
